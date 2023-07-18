@@ -1,0 +1,1 @@
+export const mainBtnColor = "#696CFF";
